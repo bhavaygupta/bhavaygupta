@@ -14,7 +14,7 @@ I work on search everywhere optimization across Google, Bing, ChatGPT, Perplexit
 - Website: [bhavay.com](https://bhavay.com)
 - SEO, AEO and GEO consulting: [bhavay.com/aeo-geo-consulting](https://bhavay.com/aeo-geo-consulting)
 - Case studies: [bhavay.com/work](https://bhavay.com/work)
-- Free Claude SEO skills: [claude-seo-skills](https://github.com/bhavay1234/claude-seo-skills) and [bhavay.com/resources](https://bhavay.com/resources)
+- Bhavay's Claude SEO Skills, free: [bhavay-seo-skills](https://github.com/bhavay1234/bhavay-seo-skills) and [bhavay.com/resources](https://bhavay.com/resources)
 - YouTube: [@bhavay_gupta](https://www.youtube.com/@bhavay_gupta)
 - LinkedIn: [linkedin.com/in/bhavaygupta](https://www.linkedin.com/in/bhavaygupta/)
 - Book a call: [bhavay.com/contact](https://bhavay.com/contact)
